@@ -66,7 +66,7 @@ int main()
 {
     int i;
 
-    printf("\n\t\t---Library Management System by Asif Ahmed Neloy---\n");
+    printf("\n\t\t---Library Management System---\n");
     password();
     menu();
  return (0);
